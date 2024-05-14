@@ -28,6 +28,7 @@ def front(queue) :
     else :
         print(queue[0])
 
+
 def back(queue) :
     if size(queue) == 0 :
         print(-1)
